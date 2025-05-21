@@ -7,7 +7,7 @@ import requests
 engine = pyttsx3.init()
 
 # ESP32-CAM Configuration
-ESP32_CAM_IP = "http://192.168.0.106"  # Replace with your ESP32-CAM's IP
+ESP32_CAM_IP = "http://192.0.0.0"  # Replace with your ESP32-CAM's IP
 
 # Load YOLO
 def load_yolo():
