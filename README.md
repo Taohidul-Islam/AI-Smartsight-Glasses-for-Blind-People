@@ -23,6 +23,7 @@ It is a project on making a DIY glass for visually impaired people. With it's in
 </ol>
 <h3>Obstacle Alerting System</h3>
 <p>Logic in obstacle alerting system is pretty simple. Two pins of the ESP-32, the buzzer, the ultrasonic sensor and batteries as powersource are used. AHere's a flowchart of it's workflow:</p>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/117294890/446006880-4961cf42-1eec-42d2-9fa8-32d5e9654484.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250521%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250521T102107Z&X-Amz-Expires=300&X-Amz-Signature=192bfcd8968d32f683b86cc031b32b8b3af719e1bff47039fc5e9048441c7182&X-Amz-SignedHeaders=host">
 ![image](https://github.com/user-attachments/assets/4961cf42-1eec-42d2-9fa8-32d5e9654484)
 <h3>AI Object Detectioon and audio Feedback.</h3>
 <p>Before using this logic you have to download yolov3.weights, yolov3.cfg, coco.names using this command promt inside bracket in your cmd <br>{curl -o yolov3.weights https://pjreddie.com/media/files/yolov3.weights <br>
