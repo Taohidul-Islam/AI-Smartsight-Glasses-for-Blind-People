@@ -3,8 +3,8 @@
 #include <WebServer.h>
 
 // WiFi Credentials
-const char* ssid = "Marufa";
-const char* password = "01684564744";
+const char* ssid = "Your Wi-Fi SSID";
+const char* password = "Your Wi-Fi Password";
 
 // Camera Pin Configuration for AI-Thinker Model
 #define PWDN_GPIO_NUM     32
