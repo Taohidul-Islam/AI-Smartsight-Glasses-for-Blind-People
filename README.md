@@ -1,6 +1,9 @@
 # AI-Smartsight-Glasses-for-Blind-People
 It is a project on making a DIY glass for visually impaired people. With it's instant obstacle warning and AI based object detection with audio feedback makes it a unique yet useful innovation.
 <br>
+![446039782-ac5de225-e146-4f80-ad16-0b5970cf63ab](https://github.com/user-attachments/assets/f1445926-085f-4d37-895d-648087bad30d)
+
+
 <h2>Things I used for this project</h2>
 <ul>
   <li>ESP 32</li>
