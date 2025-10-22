@@ -10,7 +10,7 @@ It is a project on making a DIY glass for visually impaired people. With it's in
   <li>ESP 32 CAM</li>
   <li>Ultrasonic Sensor (HC-SR04)</li>
   <li>Buzzer (Small)</li>
-  <li>Blurtooth Audio Reciver Module</li>
+  <li>Bluetooth Audio Reciver Module</li>
   <li>Mini Speaker</li>
   <li>18650 Li-ion batteries 2x</li>
   <li>Switch and button</li>
